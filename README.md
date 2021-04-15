@@ -5,3 +5,4 @@
 - 📫 How to reach me: linkedin
 - ⚡ Fun fact: keep learning and be humble and don't be arrogant (peace)
 
+<img src="https://github-readme-stats.vercel.app/api?username=nikoprayudha&show_icons=true&theme=tokyonight">
